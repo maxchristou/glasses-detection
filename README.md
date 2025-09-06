@@ -2,14 +2,6 @@
 
 A robust glasses detection system using OpenAI's CLIP model with multiple prompt strategies for improved accuracy.
 
-## Features
-
-- **High Accuracy**: ~25-30% detection rate (vs 7-10% with basic methods)
-- **Multiple Prompt Strategies**: Analyzes images from multiple perspectives
-- **Batch Processing**: Efficient parallel processing for large datasets
-- **Demographic Analysis**: Breaks down results by gender, age, and other attributes
-- **GPU Support**: Automatic GPU acceleration when available
-
 ## Installation
 
 ```bash
@@ -106,7 +98,7 @@ If you use this code in your research, please cite:
 @software{glasses_detection_2024,
   title = {CLIP-based Glasses Detection},
   year = {2024},
-  url = {https://github.com/yourusername/glasses-detection}
+  url = {https://github.com/maxchristou/glasses-detection}
 }
 ```
 
